@@ -3,11 +3,11 @@
 To write a C Program to find area of rectangle using pointer.
 
 ## ALGORITHM
-1.	Start the program.
-2.	Read two numbers.
-3.	Calculate the area of rectangle using the formula area=(x)(*y)
-4.	Display the result.
-5.	Stop the program.
+1. Start the program.
+2. Read two numbers.
+3. Calculate the area of rectangle using the formula area=(x)(*y)
+4. Display the result.
+5. Stop the program.
 
 ## PROGRAM
 ```
@@ -22,18 +22,13 @@ int main()
     return 0;
 }
 ```
-
-## OUTPUT
-		       	
+## OUTPUT	       	
 ![437769661-b5cadaa8-4c8d-4796-a993-fc6354903753](https://github.com/user-attachments/assets/94d4f432-1693-4446-b8a6-338cd1048d3c)
 
-
 ## RESULT
-Thus the program to find area of rectangle using pointer has been executed successfully
- 
- 
+Thus the program to find area of rectangle using pointer has been executed successfully.
 
-
+ 
 # EX-27-DYNAMIC-MEMORY-ALLOCATION
 ## AIM
 To write a C Program to print 'WELCOME' using malloc() and free().
@@ -73,17 +68,10 @@ int main()
 }
 ```
 ## OUTPUT
-
-
 ![WhatsApp Image 2025-04-27 at 15 43 15_acc0748e](https://github.com/user-attachments/assets/0e827968-1593-49e9-b5a7-8025b50b71ad)
 
-
-
 ## RESULT
-Thus the program to print 'WELCOME' using malloc() and free() has been executed successfully
- 
-.
-
+Thus the program to print 'WELCOME' using malloc() and free() has been executed successfully.
 
 
 # EX-28-STUDENT-INFORMATION-USING-STRUCTURE
@@ -157,9 +145,7 @@ To write a C Program to read and store the data of 3 employees and calculate the
 
 ## PROGRAM
 ```
-
-
-        #include<stdio.h>
+#include<stdio.h>
 struct employee
 {
     int eno;
@@ -197,7 +183,7 @@ int main()
 
 ## RESULT
 
-Thus the C program to read and store the data of 3 employees and calculate their Gross Salary using the concept of structure
+Thus the C program to read and store the data of 3 employees and calculate their Gross Salary using the concept of structure.
  
 
 
